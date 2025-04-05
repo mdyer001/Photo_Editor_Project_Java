@@ -1,0 +1,19 @@
+load C:/Users/kyle/IdeaProjects/ImageProcessingSetUp/src/imagealterations/Koala.ppm Koala
+greyscale Koala
+intensity-component Koala
+value-component Koala
+luma-component Koala
+red-component Koala
+green-component Koala
+blue-component Koala
+brighten 30 Koala
+save C:/Users/kyle/IdeaProjects/ImageProcessingSetUp/src/imagealterations/KoalaIntensity.ppm KoalaIntensity
+save C:/Users/kyle/IdeaProjects/ImageProcessingSetUp/src/imagealterations/KoalaMax.ppm KoalaMax
+save C:/Users/kyle/IdeaProjects/ImageProcessingSetUp/src/imagealterations/KoalaLuma.ppm KoalaLuma
+save C:/Users/kyle/IdeaProjects/ImageProcessingSetUp/src/imagealterations/KoalaRed.ppm KoalaRed
+save C:/Users/kyle/IdeaProjects/ImageProcessingSetUp/src/imagealterations/KoalaGreen.ppm KoalaGreen
+save C:/Users/kyle/IdeaProjects/ImageProcessingSetUp/src/imagealterations/KoalaBlue.ppm KoalaBlue
+save C:/Users/kyle/IdeaProjects/ImageProcessingSetUp/src/imagealterations/KoalaBrighter.ppm KoalaBrighter
+
+
+
